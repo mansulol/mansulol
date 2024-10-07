@@ -77,9 +77,9 @@
 
 [![Aunction Car Bid](https://svg.bookmark.style/api?url=https://github.com/mansulol/Aunction-Car-Bid&mode=dark&style=horizontal)](https://github.com/mansulol/Aunction-Car-Bid)
 
-[![Video to image converter](https://svg.bookmark.style/api?url=https://github.com/mansulol/Video-to-Image-Converter&mode=light&style=horizontal)](https://github.com/mansulol/Video-to-Image-Converter)
+[![Video and audio separator](https://svg.bookmark.style/api?url=https://github.com/mansulol/Video-and-Audio-Separator&mode=light&style=horizontal)](https://github.com/mansulol/Video-and-Audio-Separator)
 
-[![Video and audio separator](https://svg.bookmark.style/api?url=https://github.com/mansulol/Video-and-Audio-Separator&mode=dark&style=horizontal)](https://github.com/mansulol/Video-and-Audio-Separator)
+[![Video to image converter](https://svg.bookmark.style/api?url=https://github.com/mansulol/Video-to-Image-Converter&mode=dark&style=horizontal)](https://github.com/mansulol/Video-to-Image-Converter)
 
 [![Note App](https://svg.bookmark.style/api?url=https://github.com/mansulol/Notes-App&mode=light&style=horizontal)](https://github.com/mansulol/Notes-App)
 
