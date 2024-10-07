@@ -7,22 +7,12 @@
 </h1>
 
 <p align="center">
-  <h5>
-    <a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn Profile">
-    <img height="22px" src="/Images/linkedin.png"> 
-    LinkedIn
-    </a>
-  </h5>
-  <h5>
-    <a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile">
-    <img height="22px" src="/Images/stack-overflow.png"> 
-    Stack Overflow
-    </a>
-  </h5>
-  <h5>
-    <a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile">
-    <img height="22px" src="/Images/instagram.png"> Instagram</a>
-  </h5>
+  <img href="https://www.linkedin.com/?trk=guest_homepage-basic_nav-header-logo" height="22px" src="./Images/linkedin.png">
+  <span>Linkedin</span>
+  <img href="https://www.instagram.com/" height="22px" src="./Images/instagram.png"> 
+  <span>Instagram</span>
+  <img href="https://www.youtube.com/" height="22px" src="./Images/youtube.png"> 
+  <span>Youtube</span>
 </p>
 
 ### Welcome to my page! 😊
@@ -40,7 +30,7 @@
 
 <br>
 
-<p>How to reach me: mansourlol440@gmail.com[mansourlol440@gmail.com]</p>
+<p>How to reach me: <a href="mailto:mansourlol440@gmail.com">mansourlol440@gmail.com</a></p>
 
 ## Tecnologies ⚙️
 <p>
@@ -76,12 +66,23 @@
 
 <h2>Repositorios Destacados</h2>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=mansulol&repo=Aunction-Car-Bid" alt="Aunction Car Bid Repo">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=mansulol&repo=Video-and-Audio-Separator" alt="Video-and-Audio-Separator Repo">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=mansulol&repo=Notes-App" alt="Notes App Repo">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=mansulol&repo=Lomotor-V2" alt="Lomotor V2 Repo">
-</p>
+</p> -->
+
+[![Lomotor v2](https://svg.bookmark.style/api?url=https://github.com/mansulol/Lomotor-V2&mode=light&style=horizontal)](https://github.com/mansulol/Lomotor-V2)
+
+[![Aunction Car Bid](https://svg.bookmark.style/api?url=https://github.com/mansulol/Aunction-Car-Bid&mode=dark&style=horizontal)](https://github.com/mansulol/Aunction-Car-Bid)
+
+[![Video to image converter](https://svg.bookmark.style/api?url=https://github.com/mansulol/Video-to-Image-Converter&mode=light&style=horizontal)](https://github.com/mansulol/Video-to-Image-Converter)
+
+[![Video and audio separator](https://svg.bookmark.style/api?url=https://github.com/mansulol/Video-and-Audio-Separator&mode=dark&style=horizontal)](https://github.com/mansulol/Video-and-Audio-Separator)
+
+[![Note App](https://svg.bookmark.style/api?url=https://github.com/mansulol/Notes-App&mode=light&style=horizontal)](https://github.com/mansulol/Notes-App)
+
 
 ## Stats 💹
 
