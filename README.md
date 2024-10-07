@@ -8,17 +8,17 @@
 
 <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn Profile"><img width="22" src="   https://cdn-icons-png.flaticon.com/512/3536/3536505.png "> 
+    <a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn Profile"><img width="22" src="/Images/linkedin.png"> 
     LinkedIn
     </a>
   </code>
   <code>
-    <a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="https://cdn-icons-png.flaticon.com/512/2111/2111628.png "> 
+    <a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="/Images/stack-overflow.png"> 
     Stack Overflow
     </a>
   </code>
   <code>
-    <a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png "> Instagram</a>
+    <a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="/Images/instagram.png"> Instagram</a>
   </code>
 </h5>
 
