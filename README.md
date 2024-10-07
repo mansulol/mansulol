@@ -6,23 +6,26 @@
   </a>
 </h1>
 
-<h5 align="center">
-  <code>
-    <a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn Profile"><img width="22" src="/Images/linkedin.png"> 
+<p align="center">
+  <h5>
+    <a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn Profile">
+    <img height="22px" src="/Images/linkedin.png"> 
     LinkedIn
     </a>
-  </code>
-  <code>
-    <a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="/Images/stack-overflow.png"> 
+  </h5>
+  <h5>
+    <a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile">
+    <img height="22px" src="/Images/stack-overflow.png"> 
     Stack Overflow
     </a>
-  </code>
-  <code>
-    <a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="/Images/instagram.png"> Instagram</a>
-  </code>
-</h5>
+  </h5>
+  <h5>
+    <a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile">
+    <img height="22px" src="/Images/instagram.png"> Instagram</a>
+  </h5>
+</p>
 
-### Welcome to my page!
+### Welcome to my page! 😊
 
 <br>
 
@@ -39,8 +42,8 @@
 
 <p>How to reach me: mansourlol440@gmail.com[mansourlol440@gmail.com]</p>
 
-## Tecnologies
-  <p>
+## Tecnologies ⚙️
+<p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Github Actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
@@ -53,16 +56,16 @@
 </p>
 
 
-## Languages
+## Languages 🔠
 <p>
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+  <img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-FF0000.svg?logo=java&logoColor=white"></a>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
   <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
 </p>
 
 
-## Tools
+## Tools 🛠️
 <p>
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
@@ -80,9 +83,9 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=mansulol&repo=Lomotor-V2" alt="Lomotor V2 Repo">
 </p>
 
-## Stats
+## Stats 💹
 
-#### GitHub
+#### GitHub 
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img alt="Mansour's Top Languages" src="https://streak-stats.demolab.com/?user=mansulol&theme=dark" height="200px"/>
@@ -102,7 +105,7 @@
 </p>
 
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-#### Activity
+#### Activity 
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img alt="Mansour's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=mansulol&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
@@ -110,7 +113,7 @@
 </p>
 
 
-## More Stats
+## More Stats 
 
 <details>
   <summary>Waka time</summary>
