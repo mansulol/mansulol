@@ -126,4 +126,9 @@
 </details>
 
 ---
+</br>
+<p>
+"Stay hungry, Stay foolish"
+<cite>- Steve Jobs</cite> 
+</p>
 
