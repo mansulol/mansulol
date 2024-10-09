@@ -71,7 +71,7 @@
   <img alt="mySQL" src="https://img.shields.io/badge/mysql-3e6e93.svg?logo=mysql&logoColor=white"></a>
 </p>
 
-<h2>Repositorios Destacados</h2>
+## Featured Repositories ⭐
 
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=mansulol&repo=Aunction-Car-Bid" alt="Aunction Car Bid Repo">
@@ -93,7 +93,7 @@
 
 ## Stats 💹
 
-#### GitHub 
+### GitHub 
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img alt="Mansour's Top Languages" src="https://streak-stats.demolab.com/?user=mansulol&theme=dark" height="200px"/>
@@ -104,7 +104,7 @@
 </p>
 
   <!-- https://denvercoder1-github-readme-stats.vercel.app/ -->
-#### Languages
+### Languages
 <p align="center">
   <a href="https://denvercoder1-github-readme-stats.vercel.app/">
     <img alt="Mansour's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=mansulol&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="200px"/>
@@ -113,7 +113,7 @@
 </p>
 
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-#### Activity 
+### Activity 
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img alt="Mansour's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=mansulol&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
@@ -135,7 +135,8 @@
 ---
 </br>
 <p>
-"Stay hungry, Stay foolish"
+"*Stay hungry, Stay foolish*"
+</br>
 <cite>- Steve Jobs</cite> 
 </p>
 
