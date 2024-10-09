@@ -1,6 +1,8 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fmansulol">
+  <img align="right" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmansulol&labelColor=%23697689&countColor=%232ccce4" />
+</a>
 
-<h1 align="center">
+<h1 align="left">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Mansour+Lo+Lo....;Nice+to+meet+you!&center=true&size=26">
   </a>
@@ -11,12 +13,13 @@
   <span>Linkedin</span>
   <img href="https://www.instagram.com/" height="22px" src="./Images/instagram.png"> 
   <span>Instagram</span>
+  <img href="https://www.infojobs.net/candidate/cv/view/index.xhtml?dgv=6889177562589839967" height="22px" src="./Images/infojobs.svg">
+  <span>InfoJobs</span>
   <img href="https://www.youtube.com/" height="22px" src="./Images/youtube.png"> 
   <span>Youtube</span>
 </p>
 
 ### Welcome to my page! 😊
-
 <br>
 
 <p align="start">
@@ -30,11 +33,12 @@
 
 <br>
 
-<p>How to reach me: <a href="mailto:mansourlol440@gmail.com">mansourlol440@gmail.com</a></p>
+<p>How to reach me: <a href="mailto:mansour.lolo.04@gmail.com">mansour.lolo.04@gmail.com</a></p>
 
 ## Tecnologies ⚙️
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-f23b2f?style=flat-square&logo=laravel&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Github Actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
@@ -52,6 +56,8 @@
   <img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-FF0000.svg?logo=java&logoColor=white"></a>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
   <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+  <img alt="Php" src="https://img.shields.io/badge/Php-7a86b8.svg?logo=php&logoColor=white"></a>
+  <img alt="Sql" src="https://img.shields.io/badge/SQL-ffffff.svg?logo=sql&logoColor=white"></a>
 </p>
 
 
@@ -62,6 +68,7 @@
   <img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+  <img alt="mySQL" src="https://img.shields.io/badge/mysql-3e6e93.svg?logo=mysql&logoColor=white"></a>
 </p>
 
 <h2>Repositorios Destacados</h2>
