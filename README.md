@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <img href="https://www.linkedin.com/?trk=guest_homepage-basic_nav-header-logo" height="22px" src="./Images/linkedin.png">
+  <img href="https://www.linkedin.com/in/mansour-lo-lo-722204332/" height="22px" src="./Images/linkedin.png">
   <span>Linkedin</span>
   <img href="https://www.instagram.com/" height="22px" src="./Images/instagram.png"> 
   <span>Instagram</span>
