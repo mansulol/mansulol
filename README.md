@@ -11,8 +11,6 @@
 <p align="center">
   <img href="https://www.linkedin.com/in/mansour-lo-lo-722204332/" height="22px" src="./Images/linkedin.png">
   <span>Linkedin</span>
-  <img href="https://www.instagram.com/" height="22px" src="./Images/instagram.png"> 
-  <span>Instagram</span>
   <img href="https://www.infojobs.net/candidate/cv/view/index.xhtml?dgv=6889177562589839967" height="22px" src="./Images/infojobs.svg">
   <span>InfoJobs</span>
   <img href="https://www.youtube.com/" height="22px" src="./Images/youtube.png"> 
@@ -79,15 +77,15 @@
 
 ## Stats 💹
 
-### GitHub 
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img alt="Mansour's Top Languages" src="https://streak-stats.demolab.com/?user=mansulol&theme=dark" height="200px"/>
   </a>
 
+<!--
   <a href="https://github-readme-stats.vercel.app">
     <img  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mansulol&amp;show_icons=true&theme=react" height="200px"/>
-  </a>
+  </a> -->
 
   <a href="https://denvercoder1-github-readme-stats.vercel.app/">
     <img alt="Mansour's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=mansulol&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="200px"/>
